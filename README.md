@@ -24,7 +24,7 @@ $database = "project_db"; // Change this to your database name
 
 $conn = new mysqli($host, $username, $password, $database);
 ```
-Also, Make sure to run the [`create_db.sql`](link)
+Also, Make sure to run [`create_db.sql`](https://github.com/tyleroneil72/learning-path-creator/blob/main/create_db.sql) in the database
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
