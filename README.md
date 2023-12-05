@@ -14,6 +14,17 @@ This project when deployed operates on the LAMP stack, leveraging Linux, Apache 
 ## Example
 <img width="1424" alt="github-picture" src="https://github.com/tyleroneil72/learning-path-creator/assets/43754564/43832ebe-f4bc-4fe1-950d-7b169e811ae1">
 
+## Configuration And Setup
+```php
+// db/config.php
+$host = "localhost"; // Change this to your host if not "localhost"
+$username = "root"; // Change this to your user if not "root"
+$password = ""; // Change this to your password if you have set one
+$database = "project_db"; // Change this to your database name
+
+$conn = new mysqli($host, $username, $password, $database);
+```
+Also, Make sure to run the [`create_db.sql`](link)
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
