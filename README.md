@@ -16,6 +16,7 @@ This project when deployed operates on the LAMP stack, leveraging Linux, Apache 
 ## Example
 
 <img width="1424" alt="github-picture" src="https://github.com/tyleroneil72/learning-path-creator/assets/43754564/43832ebe-f4bc-4fe1-950d-7b169e811ae1">
+
 For More information you can checkout the [guide](https://github.com/tyleroneil72/learning-path-creator/blob/main/guide.pdf)
 
 ## Configuration And Setup
