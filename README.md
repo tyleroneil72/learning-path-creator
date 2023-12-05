@@ -4,7 +4,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-404D59?style=for-the-badge)
+![Apache](https://img.shields.io/badge/Apache%20Web%20Server-404D59?style=for-the-badge)
 
 ## Description
 This project was an assignment for an 'Advanced Web Programming' course. The Learning Path Creator is a web application designed to facilitate collaborative learning and knowledge sharing. This project empowers educators and learners alike to create, import, and explore tailored learning paths. Users can curate resources, share insights, and engage with a community-driven platform that enhances the educational experience. This report provides insights into the project's development, functionalities, and additional notes.
